@@ -1,0 +1,12 @@
+[package]
+name = "quat_automotive"
+version = "0.3.0"
+edition = "2024"
+authors = ["Strahinja <strahinjastojanovic826@gmail.com>"]
+description = "A no_std Rust library for automotive ECU and CAN bus communication using 2-bit quaternary logic (00, 01, 10, 11) for compact state, fault, and signal representation."
+license = "AGPL-3.0-only"
+repository = "https://github.com/your-username/quat_automotive"
+keywords = ["no-std", "automotive", "can", "ecu", "quaternary"]
+categories = ["embedded", "no-std", "hardware-support", "encoding"]
+
+[dependencies]
